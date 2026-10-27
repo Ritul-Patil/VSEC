@@ -1,0 +1,16 @@
+Road_Location,Accidents,Fatalities,Injuries,Avg_Speed_kmph,Traffic_Volume
+Highway A,142,38,120,78,24500
+Highway B,165,45,138,82,28000
+Highway C,188,52,150,85,31000
+Highway D,120,30,98,74,21000
+Urban Road A,210,12,180,38,42000
+Urban Road B,235,15,205,41,46000
+Urban Road C,190,10,160,35,39000
+Urban Road D,260,18,225,44,51000
+Rural Road A,85,25,70,60,9000
+Rural Road B,98,29,82,64,11000
+Rural Road C,70,20,55,57,7500
+Rural Road D,110,34,90,66,12500
+Expressway A,130,40,105,95,26000
+Expressway B,152,47,125,98,29500
+Expressway C,118,36,92,92,23000
